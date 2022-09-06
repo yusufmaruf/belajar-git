@@ -5,6 +5,8 @@ rencana belajar front end
   - belajar struktur
 2. belajar css
 3. belajar js
+
+  *belajar vue js
+  *belajar angular js
   *belajar react js
-  *belajar Angular js
 4, 
