@@ -1,5 +1,8 @@
 rencana belajar front end
 1. belajar html
+  -pendalaman html
+  -belajar tag
+  - belajar struktur
 2. belajar css
 3. belajar js
 4, 
